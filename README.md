@@ -12,9 +12,9 @@ Using the sample data “cars.zip” create a simple, resuable Java library that
 
 ## Requirements 
 
-Use only core-Java – no imported libraries 
-Assume that your library will be used within a server environment 
-Consider that the dataset could grow very large (for the sake of this exercise you can assume that memory is unlimited) 
-Use code comments to explain your design decisions 
-Ensure appropriate best practices are employed  
+- Use only core-Java – no imported libraries 
+- Assume that your library will be used within a server environment 
+- Consider that the dataset could grow very large (for the sake of this exercise you can assume that memory is unlimited) 
+- Use code comments to explain your design decisions 
+- Ensure appropriate best practices are employed  
 
