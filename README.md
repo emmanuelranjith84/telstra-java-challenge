@@ -2,7 +2,7 @@
 
 ## Scenario 
 
-Using the sample data “cars.zip” create a simple, resuable Java library that: 
+Using the sample data in car_specs.csv and car_regos.csv create a simple, resuable Java library that: 
 
  
 - pre-loads the give data records 
