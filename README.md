@@ -8,7 +8,7 @@ Using the sample data “cars.zip” create a simple, resuable Java library that
 - pre-loads the give data records 
 - allows new data records to be added 
 - allows data to be retrieved by registration  
-- allows data to be retrieved to a combination of make/model/year (all 3 mandatory) (Add this data yourself)
+- allows data to be retrieved to a combination of make/model/year (all 3 mandatory)
 
 ## Requirements 
 
